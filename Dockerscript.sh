@@ -2,7 +2,7 @@
 
 cd <source_dir>
 
-./build.sh
+./Build.sh
 
 python TestArithmetic_Operations.py
 
