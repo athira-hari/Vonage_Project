@@ -20,7 +20,7 @@ _Method 2_: Launch `Arithmetic_Operations.pyc` from the extracted path
 
 ## Build & Validation
 
-As this is developed in Python building the code is not required. The build script is bash and runs linter analysis, checks for code integrity.
+As this is developed in Python building the code is not required. The build script `Build.sh` is bash and runs linter analysis, checks for code integrity.
 
 `pylint`is used for code analysis, hence please install `pylint` in the system before running the build script.
 
